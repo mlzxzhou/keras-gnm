@@ -1,5 +1,5 @@
 # Graph-based joint model with Nonignorable Missingness (GNM)
-This is a Keras implementation of the GNM model in paper ’Graph-Based Semi-Supervised Learning with Nonignorable Nonresponses‘ by Fan Zhou et al.
+This is a Keras implementation of the GNM model in paper ’Graph-Based Semi-Supervised Learning with Nonignorable Nonresponses (NeurIPS 2019)‘ by Fan Zhou et al.
 
 ## Acknowledgements
 This GNM model supports the architecture of 
