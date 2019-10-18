@@ -12,6 +12,13 @@ We build our pipeline based on [Keras Graph Attention Network](https://github.co
 
 You should cite these papers if you use any of this code for your research:
 ```
+@article{kipf2016semi,
+  title={Semi-supervised classification with graph convolutional networks},
+  author={Kipf, Thomas N and Welling, Max},
+  journal={arXiv preprint arXiv:1609.02907},
+  year={2016}
+}
+
 @article{
   velickovic2018graph,
   title="{Graph Attention Networks}",
@@ -20,13 +27,6 @@ You should cite these papers if you use any of this code for your research:
   year={2018},
   url={https://openreview.net/forum?id=rJXMpikCZ},
   note={Accepted as poster},
-}
-
-@article{velivckovic2017graph,
-  title={Graph attention networks},
-  author={Veli{\v{c}}kovi{\'c}, Petar and Cucurull, Guillem and Casanova, Arantxa and Romero, Adriana and Lio, Pietro and Bengio, Yoshua},
-  journal={arXiv preprint arXiv:1710.10903},
-  year={2017}
 }
 ```
 
