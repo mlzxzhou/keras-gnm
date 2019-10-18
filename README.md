@@ -42,7 +42,7 @@ I do not own any rights to the datasets distributed with this code, but they are
 
 
 ## Replicating experiments
-To replicate the simulation results of the paper, simply run:
+To replicate the simple setup of the real analysis in the paper, just run:
 ```sh
 $ python sim_cora_GCN.py
 ```
@@ -61,7 +61,7 @@ $ python sim_citeseer_GCN.py
 ```
 for the Citeseer dataset.
 
-To replicate the simulation results of the paper, simply run:
+To replicate the complicated setup of the real analysis in the paper, you may try
 ```sh
 $ python real_cora.py
 ```
